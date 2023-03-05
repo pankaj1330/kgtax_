@@ -194,7 +194,7 @@ hero section after navbar
 .pricing {
     margin-top: 3rem;
     padding: 2rem .5rem;
-    background-image: url('../images/service-min.jpeg');
+    background-image: url('./images/service-min.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -442,7 +442,7 @@ why our customer loves us
 
 .needs-width-cover {
     margin-top: 3rem;
-    background-image: url('../images/laptop-min.jpeg');
+    background-image: url('./images/laptop-min.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
